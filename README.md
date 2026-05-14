@@ -1,7 +1,7 @@
 # Data Storytelling with Mean Median and Mode in Python
 
-**Published:** 2024-12-29
-**Medium:** [https://medium.com/@kyle-t-jones/data-storytelling-with-mean-median-and-mode-in-python-43c46764e7f6](https://medium.com/@kyle-t-jones/data-storytelling-with-mean-median-and-mode-in-python-43c46764e7f6)
+Published: 2024-12-29
+Medium: [https://medium.com/@kyle-t-jones/data-storytelling-with-mean-median-and-mode-in-python-43c46764e7f6](https://medium.com/@kyle-t-jones/data-storytelling-with-mean-median-and-mode-in-python-43c46764e7f6)
 
 ## About
 

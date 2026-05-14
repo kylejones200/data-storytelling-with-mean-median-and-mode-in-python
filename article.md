@@ -11,21 +11,21 @@ Imagine you're running a bakery. Every day, you record how many cookies you sell
 
 ### Data Storytelling with Mean, Median, and Mode in Python 
 
-**Imagine you're running a bakery.** Every day, you record how many cookies you sell. Some days are slow, others are booming. To understand your sales better, you need a summary --- a snapshot of your numbers. That's where *mean*, *median*, and *mode* come in: the three trusty sidekicks of data analysis.
+Imagine you're running a bakery. Every day, you record how many cookies you sell. Some days are slow, others are booming. To understand your sales better, you need a summary --- a snapshot of your numbers. That's where *mean*, *median*, and *mode* come in: the three trusty sidekicks of data analysis.
 
 ### What Are They?
-1.  [**Mean**: The smooth operator. It calculates the *average* by spreading your sales evenly across all days.]
-2.  [**Median**: The middle grounder. It identifies the *middle value* of your sorted sales, telling you what a "typical" day looks like.]
-3.  [**Mode**: The crowd favorite. It finds the most *frequently occurring* sales number, highlighting your best-selling scenario.]
+1.  [Mean: The smooth operator. It calculates the *average* by spreading your sales evenly across all days.]
+2.  [Median: The middle grounder. It identifies the *middle value* of your sorted sales, telling you what a "typical" day looks like.]
+3.  [Mode: The crowd favorite. It finds the most *frequently occurring* sales number, highlighting your best-selling scenario.]
 ### The Formula for Success 
 
 Let's break it down:
 
-**Mean**: Add up all the values and divide by the number of days.
+Mean: Add up all the values and divide by the number of days.
 
-**Median**: Sort your data. If odd, pick the middle value. If even, average the two middle values.
+Median: Sort your data. If odd, pick the middle value. If even, average the two middle values.
 
-**Mode**: Spot the number that repeats the most.
+Mode: Spot the number that repeats the most.
 
 #### Ingredients for Analysis
 - [A dataset (e.g., cookie sales per day: `[2, 19, 44, 44, 44, 51, 56, 78, 86, 99, 99]`)]
@@ -90,8 +90,8 @@ print(f"Mode: {mode}")
 #### Output Example
 For the cookie sales dataset `[2, 19, 44, 44, 44, 51, 56, 78, 86, 99, 99]`:
 
-- **Mean**: 56.54 (Your average sales)
-- **Median**: 51 (A typical day's sales)
-- **Mode**: 44 (Your most frequent result)
+- Mean: 56.54 (Your average sales)
+- Median: 51 (A typical day's sales)
+- Mode: 44 (Your most frequent result)
 
 By the end of this tutorial, you've learned how to tell a story with your data. Whether it's cookies, sales, or surveys, the *mean, median,* and *mode* have your back in uncovering insights. What's your dataset's story?
