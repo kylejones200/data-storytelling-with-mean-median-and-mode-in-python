@@ -11,14 +11,7 @@ Imagine you're running a bakery. Every day, you record how many cookies you sell
 
 1. [Mean: The smooth operator. It calculates the *average* by spreading your sales evenly across all days.] 2. [Median: The middle grounder. It identifies the *middle value* of your sorted sales, telling you what a "typical" day looks like.] 3. [Mode: The crowd favorite. It finds the most *frequently occurring* sales number, highlighting your best-selling scenario.]
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
